@@ -1,4 +1,4 @@
-# NARANI SERVER #1
+# NARANI
 
 Back-end project for food order app (**mobile** and **web**)!
 
@@ -6,7 +6,7 @@ Back-end project for food order app (**mobile** and **web**)!
 
 This project has been created in the third module at Ironhack São Paulo - Web Development Bootcamp.
 
-Simple REST API to allow for complete CRUD at the endpoint: [https://narani-rest.netlify.app/](https://narani-rest.netlify.app/)
+Simple REST API to allow for complete CRUD at the endpoint: [https://github.com/NayraGuerreiro/projeto-final-back]
 
 **Caution: Exclusive use for Narani-Client**
 
@@ -98,7 +98,7 @@ POST /api/uploadImage
 
 ```
 
-# Developers GitHub
+# Developer GitHub
 
 - [Rafael Gilberto Rezende Lima](https://github.com/RafaelGilberto)
 - [Nikolas Mendes](https://github.com/nikolasMendes)
@@ -108,7 +108,7 @@ POST /api/uploadImage
 
 Front-end for food order app (**mobile** and **web**)!
 
-[Click here](https://github.com/nikolasMendes/NARANI-front-end)
+[Click here](https://projeto-narani.netlify.app/)
 
 ## Install
 
@@ -116,6 +116,6 @@ To run the application on your localhost, clone the repo and then execute the co
 
 **Note: Don't forget to create .env and update like exemple.env**
 
-- `$ git clone [https://github.com/nikolasMendes/NARANI-back-end](https://github.com/nikolasMendes/NARANI-back-end)`
-- `$ cd NARANI-back-end npm install`
+- `$ git clone [https://github.com/NayraGuerreiro/projeto-final-front.git)`
+- `$ cd NARANI-front-end npm install`
 - `$ npm run start`
